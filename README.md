@@ -1,6 +1,6 @@
 # 👋 Bienvenue sur mon GitHub !
 
-## 🌱 À propos de moi 
+## 💬 À propos de moi 
 
 ## 🎓 Formation
 
@@ -38,6 +38,12 @@ D'autres projets sont disponibles dans la liste de mes dépôts GitHub
 - **Automatisation :** UiPath (Studio, Orchestrator)
 - **Outils :** VSCode, Git (Gitlab, GitHub), Visual Paradigm (UML), Tests unitaires (PyTest, JUnit), Prometheus
 - **Systèmes d'exploitation :** Windows, Linux (Debian, ...)
+
+
+## 📫 Contact
+N'hésitez pas à me contacter : 
+- 📧 Mail : inees.bendar@gmail.com
+- 🌐 LinkedIn : https://www.linkedin.com/in/ines-b-a97881293/
 
 
 <!---
