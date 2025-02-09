@@ -36,7 +36,7 @@ D'autres projets sont disponibles dans la liste de mes dépôts GitHub
 - **Programmation :** Python, C++, C#, C, Java, HTML, CSS, PHP
 - **Base de données :** SQL et PL-SQL, Oracle, MySQL
 - **Automatisation :** UiPath (Studio, Orchestrator)
-- **Outils :** VSCode, Git (Gitlab, GitHub), Visual Paradigm (UML), Tests unitaires (PyTest, JUnit), Prometheus
+- **Outils :** VSCode, Git (Gitlab, GitHub), Visual Paradigm (UML), Tests unitaires (PyTest, JUnit)
 - **Systèmes d'exploitation :** Windows, Linux (Debian, ...)
 
 
