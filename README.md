@@ -23,11 +23,11 @@ Actuellement en deuxième année, je suis un rythme de 2 jours en entreprise et 
 
 Voici quelques (mini) projets sur lesquels j'ai travaillé :
 <!-- Détailler -->
-- Watibulle
-- 2048
-- Démineur
-- Snake
-- Logiciel d'édition de photos
+- Watibulle - HTML/CSS, PHP, MySQL
+- 2048 - Java
+- Démineur - C#
+- Snake - Python
+- Logiciel d'édition de photos - C++
 
 D'autres projets sont disponibles dans la liste de mes dépôts GitHub
 
