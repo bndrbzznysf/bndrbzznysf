@@ -16,7 +16,7 @@ Actuellement en deuxième année, je suis un rythme de 2 jours en entreprise et 
 *Septembre 2024 - en cours*
 - Automatisation de tâches avec UiPath et exécution planifiée.  
 - Développement d'un script Python pour exporter des métriques depuis l'API UiPath vers Prometheus.  
-- Rédaction de tests fonctionnels (outils internes et Selenium) et génération de rapports.  
+- Rédaction de tests fonctionnels (outils internes et Selenium) et génération de rapports de test après exécution.  
 - Développement en React d'un outil interne de gestion d'interventions lors d'incidents (en cours).  
 
 
@@ -56,7 +56,7 @@ D'autres projets sont disponibles dans la liste de mes dépôts GitHub !
 ## 📫 Contact
 N'hésitez pas à me contacter : 
 - 📧 Mail : inees.bendar@gmail.com
-- 🌐 LinkedIn : https://www.linkedin.com/in/ines-b-a97881293/
+- 🌐 LinkedIn : https://www.linkedin.com/in/ines-bendar
 
 
 <!---
