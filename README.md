@@ -1,6 +1,7 @@
 # 👋 Bienvenue sur mon GitHub !
 
 ## 💬 À propos de moi 
+Hello ! Vous trouverez ici plusieurs informations sur moi ainsi que les projets sur lesquels j'ai pu travailler ou ceux que je suis en train de développer.
 
 ## 🎓 Formation
 
@@ -13,31 +14,43 @@ Actuellement en deuxième année, je suis un rythme de 2 jours en entreprise et 
 
 ### Alternante Chargée du Support Exploitabilité | SFR (Paris)
 *Septembre 2024 - en cours*
-- Automatisation de tâches à l'aide de l'outil UiPath avec exécution planifiée
-- Script Python d'un exportateur de métrics depuis l'API d'UiPath vers l'outil de monitoring Prometheus
-- Rédaction de tests fonctionnels (outil interne et Python) et génération de rapports de tests
-- Développement en React d'un outil interne de gestion d'interventions lors d'incidents (en cours)
+- Automatisation de tâches avec UiPath et exécution planifiée.  
+- Développement d'un script Python pour exporter des métriques depuis l'API UiPath vers Prometheus.  
+- Rédaction de tests fonctionnels (outils internes et Selenium) et génération de rapports.  
+- Développement en React d'un outil interne de gestion d'interventions lors d'incidents (en cours).  
 
 
 ## 🚀 Projets
 
-Voici quelques (mini) projets sur lesquels j'ai travaillé :
-<!-- Détailler -->
-- Watibulle - HTML/CSS, PHP, MySQL
-- 2048 - Java
-- Démineur - C#
-- Snake - Python
-- Logiciel d'édition de photos - C++
+Voici quelques (mini) projets sur lesquels j'ai pu travailler :  
 
-D'autres projets sont disponibles dans la liste de mes dépôts GitHub
+- **Watibulle** - *HTML/CSS, PHP, MySQL, Java*   
+Ce projet vise à créer une plateforme de démocratie participative pour permettre aux groupes (associations, clubs, communes, etc.) de proposer, discuter et voter sur des idées. Accessible via une interface web et mobile, la plateforme gère les utilisateurs, les groupes, les propositions et les votes. Elle inclut des fonctionnalités comme la création de groupes, des invitations par email, des discussions et des votes anonymes. Une application Java aide les décideurs à évaluer les propositions en fonction des budgets afin de les valider.
+
+- **Logiciel d'édition de photos** - *C++*
+Application permettant de manipuler et d'éditer des images avec des fonctionnalités de base (noir et blanc, redimensionnement, etc.).
+
+- **2048** - *Java*  
+  Implémentation du jeu 2048 avec une interface graphique en Java.
+
+- **Démineur** - *C#*  
+  Reproduction du jeu Démineur avec une interface utilisateur intuitive.
+
+- **Snake** - *Python*  
+  Version du jeu Snake en Python avec une interface simple et réactive.
+
+D'autres projets sont disponibles dans mes dépôts GitHub !
+
+D'autres projets sont disponibles dans la liste de mes dépôts GitHub !
+
 
 ## 🛠️ Compétences
 
-- **Programmation :** Python, C++, C#, C, Java, HTML, CSS, PHP
-- **Base de données :** SQL et PL-SQL, Oracle, MySQL
-- **Automatisation :** UiPath (Studio, Orchestrator)
-- **Outils :** VSCode, Git (Gitlab, GitHub), Visual Paradigm (UML), Tests unitaires (PyTest, JUnit)
-- **Systèmes d'exploitation :** Windows, Linux (Debian, ...)
+- **Programmation :** Python, C++, C#, C, Java, HTML, CSS, PHP  
+- **Base de données :** SQL, PL-SQL, Oracle, MySQL  
+- **Automatisation :** UiPath (Studio, Orchestrator), Selenium (Python)  
+- **Outils :** VSCode, Git (GitLab, GitHub), Visual Paradigm (UML), Tests unitaires (PyTest, JUnit)  
+- **Systèmes d'exploitation :** Windows, Linux (Debian, etc.)  
 
 
 ## 📫 Contact
