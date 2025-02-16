@@ -46,7 +46,7 @@ D'autres projets sont disponibles dans la liste de mes dépôts GitHub !
 
 ## 🛠️ Compétences
 
-- **Programmation :** Python, C++, C#, C, Java, HTML, CSS, PHP  
+- **Programmation :** Python, C, C++, C#, Java, HTML, CSS, PHP  
 - **Base de données :** SQL, PL-SQL, Oracle, MySQL  
 - **Automatisation :** UiPath (Studio, Orchestrator), Selenium (Python)  
 - **Outils :** VSCode, Git (GitLab, GitHub), Visual Paradigm (UML), Tests unitaires (PyTest, JUnit)  
